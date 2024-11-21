@@ -14,10 +14,10 @@ Para o projeto, os alunos devem criar uma API RESTful para gerenciar livros em u
 ## Como baixar o repositório
 
 **1. Clone o repositório:**   
-    `git clone https://github.com/PoisonRose/LibraryApi.git`  
+    `git clone https://github.com/DaiLuna/LibraryAPI.git`  
    Isso criará uma cópia local do repositório na pasta onde você executou o comando.  
 **2. Acesse o diretório do repositório com o seguinte comando:**  
-    `cd LibraryApi`
+    `cd LibraryAPI`
 
 Agora você está pronto para contribuir!
 
