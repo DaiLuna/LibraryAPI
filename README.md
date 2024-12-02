@@ -1,9 +1,9 @@
 # LibraryAPI
 ## Autores:
 Arthur Albuquerque Pereira, Analista dev.   
-Luana da Nobrega Duarte, Documentador 
-Davi Fontes Barbosa, Scrum Master
-Miguel Luna Giovannetti de Arruda Amorim, Gerente de configuração
+Luana da Nobrega Duarte, Documentador  
+Davi Fontes Barbosa, Scrum Master  
+Miguel Luna Giovannetti de Arruda Amorim, Gerente de configuração  
 
 # Sobre o projeto
 Este projeto é um projeto da faculdade UNINASSAU, do curso de Ciência da Computação, do professor João Ferreira, da disciplina de Back-end Frameworks
